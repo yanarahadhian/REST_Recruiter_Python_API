@@ -1,0 +1,7 @@
+########UNFINISH TASKS###########
+-reset password (need to send new password by email)
+-upload image
+-upload cv
+
+company profile as like linkedin
+wesite address
